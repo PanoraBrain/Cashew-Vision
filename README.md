@@ -76,7 +76,7 @@ The system uses hybrid AI reasoning:
 - **GPT-5.2** → Quality reasoning & summaries
 - **GPT-4.1** → Structured analysis logic
 - **Gemini 3 Flash** → Fast multimodal interpretation
-- Hosted via **Replicate API**
+- Hosted via **Replicate API** and **Vertex API**(For Gemini 3 Flash)
 
 Prompt engineering is used to convert visual outputs into structured industrial grading decisions.
 
