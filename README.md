@@ -87,7 +87,7 @@ Prompt engineering is used to convert visual outputs into structured industrial 
 | Layer | Technology |
 |------|------------|
 | Mobile App | Kotlin (Android) |
-| AI Integration | Replicate API |
+| AI Integration | Replicate API, Vertex API |
 | Models | GPT-5.2, GPT-4.1, Gemini 3 Flash |
 | Architecture | AI-assisted rule + prompt system |
 | Charts | Android visualization libraries |
